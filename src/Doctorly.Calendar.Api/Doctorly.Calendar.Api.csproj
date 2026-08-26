@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup><ProjectReference Include="..\Doctorly.Calendar.Application\Doctorly.Calendar.Application.csproj" /><ProjectReference Include="..\Doctorly.Calendar.Infrastructure\Doctorly.Calendar.Infrastructure.csproj" /></ItemGroup>
+  <ItemGroup><PackageReference Include="Swashbuckle.AspNetCore" /></ItemGroup>
+</Project>
