@@ -240,3 +240,10 @@ dotnet build
 
 ```bash
 dotnet run --project Doctorly.Calendar.Api
+```
+### Swagger will be available at:
+
+https://localhost:5050/swagger
+
+<img width="1909" height="952" alt="image" src="https://github.com/user-attachments/assets/dd356faa-de0b-4f92-b9f1-47a0362f46f9" />
+
